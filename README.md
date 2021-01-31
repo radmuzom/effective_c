@@ -1,1 +1,1 @@
-# effective_c
+Working through the book Effective C.
