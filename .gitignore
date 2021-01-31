@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.vscode/launch.json
+.vscode/tasks.json
+Chapter_01/hello
+Chapter_01/hello2
