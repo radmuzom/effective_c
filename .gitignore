@@ -54,3 +54,7 @@ dkms.conf
 .vscode/tasks.json
 Chapter_01/hello
 Chapter_01/hello2
+Chapter_02/swap
+Chapter_02/swap2
+Chapter_02/static
+Chapter_02/align
